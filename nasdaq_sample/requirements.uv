@@ -1,0 +1,6 @@
+finrl
+stable-baselines3[extra]
+tradingview_ta
+yfinance
+pandas
+numpy

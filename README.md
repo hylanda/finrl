@@ -208,6 +208,7 @@ Technical indicators: 'macd', 'boll_ub', 'boll_lb', 'rsi_30', 'dx_30', 'close_30
 ## Tutorials
 
 + [Towardsdatascience] [Deep Reinforcement Learning for Automated Stock Trading](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
++ [NASDAQ RL Sample](nasdaq_sample/README.md) – minimal project demonstrating training on NASDAQ‑100 data using FinRL and TradingView.
 
 
 ## Publications
